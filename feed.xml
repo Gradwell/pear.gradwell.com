@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://pear.gradwell.org/">
+    <title>Gradwell PEAR channel Latest Releases</title>
+    <link href="http://pear.gradwell.org/" />
+    <author>
+        <name>http://pear.gradwell.org/</name>
+    </author>
+
+
+</feed>

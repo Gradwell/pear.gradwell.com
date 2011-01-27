@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+	<name>pear.gradwell.com</name>
+	<summary>Gradwell PEAR channel</summary>
+	<alias>Gradwell</alias>
+	<url>http://pear.gradwell.org/</url>
+</server>
