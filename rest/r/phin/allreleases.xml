@@ -3,6 +3,10 @@
     <p>phin</p>
     <c>pear.gradwell.com</c>
     <r>
+        <v>0.0.4</v>
+        <s>stable</s>
+    </r>
+    <r>
         <v>0.0.3</v>
         <s>stable</s>
     </r>
