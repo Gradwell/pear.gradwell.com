@@ -7,6 +7,19 @@
     </author>
 
     <entry>
+        <title>phin 0.0.2 (stable)</title>
+        <link href="http://pear.gradwell.com//get/phin-0.0.2.tgz" />
+        <id>phin-0.0.2</id>
+        <author>
+            <name>stuherbert</name>
+        </author>
+        <updated>2011-01-28T08:55:31+00:00</updated>
+        <content>
+            
+    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
+  
+        </content>
+    </entry>    <entry>
         <title>phin 0.0.1 (stable)</title>
         <link href="http://pear.gradwell.com//get/phin-0.0.1.tgz" />
         <id>phin-0.0.1</id>
