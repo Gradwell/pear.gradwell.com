@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/autoloader">Autoloader</p>
+    <c>pear.gradwell.com</c>
+    <v>1.0.0</v>
+    <st>stable</st>
+    <l>All rights reserved. Released under the BSD license.</l>
+    <m>stuart</m>
+    <s>Simple PHP library for autoloading classes</s>
+    <d>
+    Autoloader is a PSR0-compatible autoloader.
+  </d>
+    <da>2011-01-28 13:23:22</da>
+    <n>
+    No notes.
+  </n>
+    <f>1997</f>
+    <g>http://pear.gradwell.com/get/Autoloader-1.0.0</g>
+    <x xlink:href="package.1.0.0.xml"/>
+</r>

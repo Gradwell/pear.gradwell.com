@@ -7,6 +7,19 @@
     </author>
 
     <entry>
+        <title>Autoloader 1.0.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/Autoloader-1.0.0.tgz" />
+        <id>Autoloader-1.0.0</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-01-28T13:23:22+00:00</updated>
+        <content>
+            
+    Autoloader is a PSR0-compatible autoloader.
+  
+        </content>
+    </entry>    <entry>
         <title>phin 0.0.2 (stable)</title>
         <link href="http://pear.gradwell.com/get/phin-0.0.2.tgz" />
         <id>phin-0.0.2</id>
