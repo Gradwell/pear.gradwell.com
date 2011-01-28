@@ -3,5 +3,5 @@
 	<name>pear.gradwell.com</name>
 	<summary>Gradwell PEAR channel</summary>
 	<alias>Gradwell</alias>
-	<url>http://pear.gradwell.com/</url>
+	<url>http://pear.gradwell.com</url>
 </server>

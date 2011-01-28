@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://pear.gradwell.com/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://pear.gradwell.com">
     <title>Gradwell PEAR channel Latest Releases</title>
-    <link href="http://pear.gradwell.com/" />
+    <link href="http://pear.gradwell.com" />
     <author>
-        <name>http://pear.gradwell.com/</name>
+        <name>http://pear.gradwell.com</name>
     </author>
 
     <entry>
         <title>phin 0.0.2 (stable)</title>
-        <link href="http://pear.gradwell.com//get/phin-0.0.2.tgz" />
+        <link href="http://pear.gradwell.com/get/phin-0.0.2.tgz" />
         <id>phin-0.0.2</id>
         <author>
             <name>stuherbert</name>
@@ -21,7 +21,7 @@
         </content>
     </entry>    <entry>
         <title>phin 0.0.1 (stable)</title>
-        <link href="http://pear.gradwell.com//get/phin-0.0.1.tgz" />
+        <link href="http://pear.gradwell.com/get/phin-0.0.1.tgz" />
         <id>phin-0.0.1</id>
         <author>
             <name>stuherbert</name>
