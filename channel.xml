@@ -6,10 +6,10 @@
     <servers>
         <primary>
             <rest>
-                <baseurl type="REST1.0">http://pear.gradwell.org//rest/</baseurl>
-                <baseurl type="REST1.1">http://pear.gradwell.org//rest/</baseurl>
-                <baseurl type="REST1.2">http://pear.gradwell.org//rest/</baseurl>
-                <baseurl type="REST1.3">http://pear.gradwell.org//rest/</baseurl>
+                <baseurl type="REST1.0">http://pear.gradwell.com//rest/</baseurl>
+                <baseurl type="REST1.1">http://pear.gradwell.com//rest/</baseurl>
+                <baseurl type="REST1.2">http://pear.gradwell.com//rest/</baseurl>
+                <baseurl type="REST1.3">http://pear.gradwell.com//rest/</baseurl>
             </rest>
         </primary>
     </servers>
