@@ -7,6 +7,19 @@
     </author>
 
     <entry>
+        <title>Autoloader 2.0.1 (stable)</title>
+        <link href="http://pear.gradwell.com/get/Autoloader-2.0.1.tgz" />
+        <id>Autoloader-2.0.1</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-02-10T13:56:49+00:00</updated>
+        <content>
+            
+    Autoloader is a PSR0-compatible autoloader.
+  
+        </content>
+    </entry>    <entry>
         <title>Autoloader 2.0.0 (stable)</title>
         <link href="http://pear.gradwell.com/get/Autoloader-2.0.0.tgz" />
         <id>Autoloader-2.0.0</id>
