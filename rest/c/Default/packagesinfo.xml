@@ -57,6 +57,10 @@
 
         <a>
             <r>
+                <v>0.10.3</v>
+                <s>stable</s>
+            </r>
+            <r>
                 <v>0.10.2</v>
                 <s>stable</s>
             </r>
@@ -71,6 +75,10 @@
 
         </a>
 
+        <deps>
+            <v>0.10.3</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}}}</d>
+        </deps>
         <deps>
             <v>0.10.2</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}}}</d>

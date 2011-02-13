@@ -3,6 +3,10 @@
     <p>phix</p>
     <c>pear.gradwell.com</c>
     <r>
+        <v>0.10.3</v>
+        <s>stable</s>
+    </r>
+    <r>
         <v>0.10.2</v>
         <s>stable</s>
     </r>
