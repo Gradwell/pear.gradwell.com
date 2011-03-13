@@ -72,6 +72,19 @@
   
         </content>
     </entry>    <entry>
+        <title>ExtenderLib 1.0.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ExtenderLib-1.0.0.tgz" />
+        <id>ExtenderLib-1.0.0</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-03-13T12:24:20+00:00</updated>
+        <content>
+            
+    Description goes here
+  
+        </content>
+    </entry>    <entry>
         <title>ValidationLib 1.0.0 (stable)</title>
         <link href="http://pear.gradwell.com/get/ValidationLib-1.0.0.tgz" />
         <id>ValidationLib-1.0.0</id>
