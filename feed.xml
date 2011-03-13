@@ -46,6 +46,32 @@
   
         </content>
     </entry>    <entry>
+        <title>CommandLineLib 1.0.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/CommandLineLib-1.0.0.tgz" />
+        <id>CommandLineLib-1.0.0</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-03-13T12:07:57+00:00</updated>
+        <content>
+            
+    CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluid interface.
+  
+        </content>
+    </entry>    <entry>
+        <title>ConsoleDisplayLib 1.0.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ConsoleDisplayLib-1.0.0.tgz" />
+        <id>ConsoleDisplayLib-1.0.0</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-03-13T12:07:44+00:00</updated>
+        <content>
+            
+    Description goes here
+  
+        </content>
+    </entry>    <entry>
         <title>ValidationLib 1.0.0 (stable)</title>
         <link href="http://pear.gradwell.com/get/ValidationLib-1.0.0.tgz" />
         <id>ValidationLib-1.0.0</id>
