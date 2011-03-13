@@ -46,6 +46,19 @@
   
         </content>
     </entry>    <entry>
+        <title>ValidationLib 1.0.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ValidationLib-1.0.0.tgz" />
+        <id>ValidationLib-1.0.0</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-03-13T11:35:22+00:00</updated>
+        <content>
+            
+    Inspired by Zend Framework, this is a lightweight library of reusable data validation tools.
+  
+        </content>
+    </entry>    <entry>
         <title>phix 0.10.3 (stable)</title>
         <link href="http://pear.gradwell.com/get/phix-0.10.3.tgz" />
         <id>phix-0.10.3</id>
