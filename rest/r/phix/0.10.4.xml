@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/phix">phix</p>
+    <c>pear.gradwell.com</c>
+    <v>0.10.4</v>
+    <st>stable</st>
+    <l>All rights reserved.</l>
+    <m>stuherbert</m>
+    <s>Framework-agnostic command-line util for PHP development</s>
+    <d>
+    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
+  </d>
+    <da>2011-03-20 17:30:59</da>
+    <n>
+    No notes.
+  </n>
+    <f>14370140</f>
+    <g>http://pear.gradwell.com/get/phix-0.10.4</g>
+    <x xlink:href="package.0.10.4.xml"/>
+</r>
