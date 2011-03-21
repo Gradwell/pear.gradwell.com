@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/componentmanager">ComponentManager</p>
+    <c>pear.gradwell.com</c>
+    <v>1.0.2</v>
+    <a>1.0</a>
+    <mp>5.3.0</mp>
+    <st>stable</st>
+    <l>New BSD license</l>
+    <m>stuartherbet</m>
+    <s>ComponentManager allows you to create and maintain a variety of components</s>
+    <d>
+    ComponentManager allows you to create and maintain a variety of components, such as PHP libraries and Docbooks.
+  </d>
+    <da>2011-03-21 23:01:01</da>
+    <n>
+    No notes.
+  </n>
+    <f>2384</f>
+    <g>http://pear.gradwell.com/get/ComponentManager-1.0.2</g>
+    <x xlink:href="package.1.0.2.xml"/>
+</r>

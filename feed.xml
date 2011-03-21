@@ -59,6 +59,19 @@
   
         </content>
     </entry>    <entry>
+        <title>ComponentManager 1.0.2 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ComponentManager-1.0.2.tgz" />
+        <id>ComponentManager-1.0.2</id>
+        <author>
+            <name>stuartherbet</name>
+        </author>
+        <updated>2011-03-21T23:01:01+00:00</updated>
+        <content>
+            
+    ComponentManager allows you to create and maintain a variety of components, such as PHP libraries and Docbooks.
+  
+        </content>
+    </entry>    <entry>
         <title>ComponentManager 1.0.1 (stable)</title>
         <link href="http://pear.gradwell.com/get/ComponentManager-1.0.1.tgz" />
         <id>ComponentManager-1.0.1</id>
@@ -108,6 +121,19 @@
         <content>
             
     ComponentManagerPhpDocbook contains the code and skeleton files required to create and manage a php-docbook component.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerPhpLibrary 1.0.2 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ComponentManagerPhpLibrary-1.0.2.tgz" />
+        <id>ComponentManagerPhpLibrary-1.0.2</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-03-21T22:57:28+00:00</updated>
+        <content>
+            
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
   
         </content>
     </entry>    <entry>
