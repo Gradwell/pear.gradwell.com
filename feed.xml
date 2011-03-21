@@ -98,6 +98,19 @@
   
         </content>
     </entry>    <entry>
+        <title>phix 0.10.5 (stable)</title>
+        <link href="http://pear.gradwell.com/get/phix-0.10.5.tgz" />
+        <id>phix-0.10.5</id>
+        <author>
+            <name>stuherbert</name>
+        </author>
+        <updated>2011-03-21T11:15:33+00:00</updated>
+        <content>
+            
+    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
+  
+        </content>
+    </entry>    <entry>
         <title>phix 0.10.4 (stable)</title>
         <link href="http://pear.gradwell.com/get/phix-0.10.4.tgz" />
         <id>phix-0.10.4</id>
