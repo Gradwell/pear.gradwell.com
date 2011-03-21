@@ -291,6 +291,10 @@
 
         <a>
             <r>
+                <v>0.11.1</v>
+                <s>stable</s>
+            </r>
+            <r>
                 <v>0.11.0</v>
                 <s>stable</s>
             </r>
@@ -321,6 +325,10 @@
 
         </a>
 
+        <deps>
+            <v>0.11.1</v>
+            <d>a:1:{s:8:"required";a:4:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:5:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}i:1;a:4:{s:4:"name";s:14:"CommandLineLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:2;a:4:{s:4:"name";s:17:"ConsoleDisplayLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:3;a:4:{s:4:"name";s:11:"ExtenderLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:4;a:4:{s:4:"name";s:13:"ValidationLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}}s:9:"extension";a:1:{s:4:"name";s:5:"posix";}}}</d>
+        </deps>
         <deps>
             <v>0.11.0</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:5:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}i:1;a:4:{s:4:"name";s:14:"CommandLineLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:2;a:4:{s:4:"name";s:17:"ConsoleDisplayLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:3;a:4:{s:4:"name";s:11:"ExtenderLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:4;a:4:{s:4:"name";s:13:"ValidationLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
