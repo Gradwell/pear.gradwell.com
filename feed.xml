@@ -72,6 +72,19 @@
   
         </content>
     </entry>    <entry>
+        <title>ComponentManagerPhpDocbook 1.0.1 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ComponentManagerPhpDocbook-1.0.1.tgz" />
+        <id>ComponentManagerPhpDocbook-1.0.1</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-03-21T22:30:55+00:00</updated>
+        <content>
+            
+    ComponentManagerPhpDocbook contains the code and skeleton files required to create and manage a php-docbook component.
+  
+        </content>
+    </entry>    <entry>
         <title>ComponentManagerPhpDocbook 1.0.0 (stable)</title>
         <link href="http://pear.gradwell.com/get/ComponentManagerPhpDocbook-1.0.0.tgz" />
         <id>ComponentManagerPhpDocbook-1.0.0</id>
@@ -85,6 +98,19 @@
   
         </content>
     </entry>    <entry>
+        <title>ComponentManagerPhpLibrary 1.0.1 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ComponentManagerPhpLibrary-1.0.1.tgz" />
+        <id>ComponentManagerPhpLibrary-1.0.1</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-03-21T22:26:39+00:00</updated>
+        <content>
+            
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  
+        </content>
+    </entry>    <entry>
         <title>ComponentManagerPhpLibrary 1.0.0 (stable)</title>
         <link href="http://pear.gradwell.com/get/ComponentManagerPhpLibrary-1.0.0.tgz" />
         <id>ComponentManagerPhpLibrary-1.0.0</id>
@@ -95,6 +121,19 @@
         <content>
             
     ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerPhpWebapp 1.0.1 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ComponentManagerPhpWebapp-1.0.1.tgz" />
+        <id>ComponentManagerPhpWebapp-1.0.1</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-03-21T22:36:28+00:00</updated>
+        <content>
+            
+    ComponentManagerPhpWebapp contains the code and skeleton files required to create and manage a php-webapp component.
   
         </content>
     </entry>    <entry>
