@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/componentmanagershared">ComponentManagerShared</p>
+    <c>pear.gradwell.com</c>
+    <v>1.0.0</v>
+    <st>stable</st>
+    <l>New BSD license</l>
+    <m>stuartherbert</m>
+    <s>Shared code for the management of different kinds of components</s>
+    <d>
+    ComponentManager-Shared holds the shared code used in the management of different kinds of components.
+  </d>
+    <da>2011-03-21 17:16:13</da>
+    <n>
+    No notes.
+  </n>
+    <f>6537</f>
+    <g>http://pear.gradwell.com/get/ComponentManagerShared-1.0.0</g>
+    <x xlink:href="package.1.0.0.xml"/>
+</r>

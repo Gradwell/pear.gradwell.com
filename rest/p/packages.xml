@@ -3,6 +3,11 @@
     <c>pear.gradwell.com</c>
   <p>Autoloader</p>
   <p>CommandLineLib</p>
+  <p>ComponentManager</p>
+  <p>ComponentManagerPhpDocbook</p>
+  <p>ComponentManagerPhpLibrary</p>
+  <p>ComponentManagerPhpWebapp</p>
+  <p>ComponentManagerShared</p>
   <p>ConsoleDisplayLib</p>
   <p>ExtenderLib</p>
   <p>ValidationLib</p>

@@ -59,6 +59,71 @@
   
         </content>
     </entry>    <entry>
+        <title>ComponentManager 1.0.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ComponentManager-1.0.0.tgz" />
+        <id>ComponentManager-1.0.0</id>
+        <author>
+            <name>stuartherbet</name>
+        </author>
+        <updated>2011-03-21T20:10:35+00:00</updated>
+        <content>
+            
+    ComponentManager allows you to create and maintain a variety of components, such as PHP libraries and Docbooks.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerPhpDocbook 1.0.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ComponentManagerPhpDocbook-1.0.0.tgz" />
+        <id>ComponentManagerPhpDocbook-1.0.0</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-03-21T17:38:53+00:00</updated>
+        <content>
+            
+    ComponentManagerPhpDocbook contains the code and skeleton files required to create and manage a php-docbook component.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerPhpLibrary 1.0.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ComponentManagerPhpLibrary-1.0.0.tgz" />
+        <id>ComponentManagerPhpLibrary-1.0.0</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-03-21T17:23:07+00:00</updated>
+        <content>
+            
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerPhpWebapp 1.0.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ComponentManagerPhpWebapp-1.0.0.tgz" />
+        <id>ComponentManagerPhpWebapp-1.0.0</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-03-21T20:23:47+00:00</updated>
+        <content>
+            
+    ComponentManagerPhpWebapp contains the code and skeleton files required to create and manage a php-webapp component.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerShared 1.0.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ComponentManagerShared-1.0.0.tgz" />
+        <id>ComponentManagerShared-1.0.0</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-03-21T17:16:13+00:00</updated>
+        <content>
+            
+    ComponentManager-Shared holds the shared code used in the management of different kinds of components.
+  
+        </content>
+    </entry>    <entry>
         <title>ConsoleDisplayLib 1.0.0 (stable)</title>
         <link href="http://pear.gradwell.com/get/ConsoleDisplayLib-1.0.0.tgz" />
         <id>ConsoleDisplayLib-1.0.0</id>
@@ -95,6 +160,19 @@
         <content>
             
     Inspired by Zend Framework, this is a lightweight library of reusable data validation tools.
+  
+        </content>
+    </entry>    <entry>
+        <title>phix 0.11.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/phix-0.11.0.tgz" />
+        <id>phix-0.11.0</id>
+        <author>
+            <name>stuherbert</name>
+        </author>
+        <updated>2011-03-21T19:57:58+00:00</updated>
+        <content>
+            
+    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
   
         </content>
     </entry>    <entry>

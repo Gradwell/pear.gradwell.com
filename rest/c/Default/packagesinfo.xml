@@ -70,6 +70,136 @@
 
     </pi>    <pi>
         <p>
+            <n>ComponentManager</n>
+            <c>pear.gradwell.com</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>New BSD license</l>
+            <s>ComponentManager allows you to create and maintain a variety of components</s>
+            <d>
+    ComponentManager allows you to create and maintain a variety of components, such as PHP libraries and Docbooks.
+  </d>
+            <r xlink:href="/rest/r/componentmanager" />
+        </p>
+
+        <a>
+            <r>
+                <v>1.0.0</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>1.0.0</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:3:{i:0;a:4:{s:4:"name";s:26:"ComponentManagerPhpLibrary";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:1;a:4:{s:4:"name";s:26:"ComponentManagerPhpDocbook";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:2;a:4:{s:4:"name";s:25:"ComponentManagerPhpWebapp";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
+            <n>ComponentManagerPhpDocbook</n>
+            <c>pear.gradwell.com</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>New BSD license</l>
+            <s>Supports creating and managing a php-docbook component</s>
+            <d>
+    ComponentManagerPhpDocbook contains the code and skeleton files required to create and manage a php-docbook component.
+  </d>
+            <r xlink:href="/rest/r/componentmanagerphpdocbook" />
+        </p>
+
+        <a>
+            <r>
+                <v>1.0.0</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>1.0.0</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:3:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}i:1;a:4:{s:4:"name";s:22:"ComponentManagerShared";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:2;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:6:"0.10.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
+            <n>ComponentManagerPhpLibrary</n>
+            <c>pear.gradwell.com</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>New BSD license</l>
+            <s>Supports creating and managing a php-library component</s>
+            <d>
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  </d>
+            <r xlink:href="/rest/r/componentmanagerphplibrary" />
+        </p>
+
+        <a>
+            <r>
+                <v>1.0.0</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>1.0.0</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:3:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}i:1;a:4:{s:4:"name";s:22:"ComponentManagerShared";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:2;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:6:"0.10.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
+            <n>ComponentManagerPhpWebapp</n>
+            <c>pear.gradwell.com</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>New BSD license</l>
+            <s>Supports creating and managing a php-webapp component</s>
+            <d>
+    ComponentManagerPhpWebapp contains the code and skeleton files required to create and manage a php-webapp component.
+  </d>
+            <r xlink:href="/rest/r/componentmanagerphpwebapp" />
+        </p>
+
+        <a>
+            <r>
+                <v>1.0.0</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>1.0.0</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:3:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}i:1;a:4:{s:4:"name";s:22:"ComponentManagerShared";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:2;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:6:"0.10.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
+            <n>ComponentManagerShared</n>
+            <c>pear.gradwell.com</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>New BSD license</l>
+            <s>Shared code for the management of different kinds of components</s>
+            <d>
+    ComponentManager-Shared holds the shared code used in the management of different kinds of components.
+  </d>
+            <r xlink:href="/rest/r/componentmanagershared" />
+        </p>
+
+        <a>
+            <r>
+                <v>1.0.0</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>1.0.0</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:2:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}i:1;a:4:{s:4:"name";s:4:"phix";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:6:"0.10.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
             <n>ConsoleDisplayLib</n>
             <c>pear.gradwell.com</c>
             <ca xlink:href="/rest/c/Default">Default</ca>
@@ -161,6 +291,10 @@
 
         <a>
             <r>
+                <v>0.11.0</v>
+                <s>stable</s>
+            </r>
+            <r>
                 <v>0.10.5</v>
                 <s>stable</s>
             </r>
@@ -187,6 +321,10 @@
 
         </a>
 
+        <deps>
+            <v>0.11.0</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:5:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}i:1;a:4:{s:4:"name";s:14:"CommandLineLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:2;a:4:{s:4:"name";s:17:"ConsoleDisplayLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:3;a:4:{s:4:"name";s:11:"ExtenderLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:4;a:4:{s:4:"name";s:13:"ValidationLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
+        </deps>
         <deps>
             <v>0.10.5</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:5:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"2.0.0";s:3:"max";s:10:"2.999.9999";}i:1;a:4:{s:4:"name";s:14:"CommandLineLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:2;a:4:{s:4:"name";s:17:"ConsoleDisplayLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:3;a:4:{s:4:"name";s:11:"ExtenderLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}i:4;a:4:{s:4:"name";s:13:"ValidationLib";s:7:"channel";s:17:"pear.gradwell.com";s:3:"min";s:5:"1.0.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
