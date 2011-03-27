@@ -124,6 +124,19 @@
   
         </content>
     </entry>    <entry>
+        <title>ComponentManagerPhpLibrary 1.0.3 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ComponentManagerPhpLibrary-1.0.3.tgz" />
+        <id>ComponentManagerPhpLibrary-1.0.3</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-03-23T21:25:41+00:00</updated>
+        <content>
+            
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  
+        </content>
+    </entry>    <entry>
         <title>ComponentManagerPhpLibrary 1.0.2 (stable)</title>
         <link href="http://pear.gradwell.com/get/ComponentManagerPhpLibrary-1.0.2.tgz" />
         <id>ComponentManagerPhpLibrary-1.0.2</id>
@@ -342,6 +355,19 @@
         <content>
             
     A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
+  
+        </content>
+    </entry>    <entry>
+        <title>repustateApi 0.1.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/repustateApi-0.1.0.tgz" />
+        <id>repustateApi-0.1.0</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-03-27T16:46:49+01:00</updated>
+        <content>
+            
+    This is a simple PHP client for repustate.com's API for semantic analysis. Originally built for the 'Beyond Frameworks' tutorial blog posts.
   
         </content>
     </entry>

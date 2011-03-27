@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.1" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0
+    http://pear.php.net/dtd/tasks-1.0.xsd
+    http://pear.php.net/dtd/package-2.0
+    http://pear.php.net/dtd/package-2.0.xsd">
+  <name>repustateApi</name>
+  <channel>pear.gradwell.com</channel>
+  <summary>Simple PHP client for repustate's API</summary>
+  <description>
+    This is a simple PHP client for repustate.com's API for semantic analysis. Originally built for the 'Beyond Frameworks' tutorial blog posts.
+  </description>
+  <lead>
+    <name>Stuart Herbert</name>
+    <user>stuartherbert</user>
+    <email>stuart.herbert@gradwell.com</email>
+    <active>yes</active>
+  </lead>
+  <date>2011-03-27</date>
+  <time>16:46:49</time>
+  <version>
+  <release>0.1.0</release>
+    <api>0.1</api>
+  </version>
+  <stability>
+    <release>stable</release>
+    <api>stable</api>
+  </stability>
+  <license>New BSD license.</license>
+  <notes>
+    No notes.
+  </notes>
+  <contents>
+    <dir baseinstalldir="/" name="/">
+      <file baseinstalldir="/" md5sum="7dd7fbee3817f0c28f949c62fbec2eaf" name="/Gradwell/RepustateApi/Client.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="e9e275cdce386aa68c5c411cb72300f6" name="/Gradwell/RepustateApi/ClientTest.php" role="test">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+
+    </dir>
+  </contents>
+  <dependencies>
+    <required>
+      <php>
+        <min>5.3.0</min>
+      </php>
+      <pearinstaller>
+        <min>1.6.0</min>
+      </pearinstaller>
+      <package>
+        <name>Autoloader</name>
+        <channel>pear.gradwell.com</channel>
+        <min>2.0.0</min>
+	      <max>2.999.9999</max>
+      </package>
+      <package>
+        <name>HTTP_Request2</name>
+        <channel>pear.php.net</channel>
+        <min>2.0.0beta1</min>
+        <max>2.999.9999</max>
+      </package>
+    </required>
+  </dependencies>
+  <phprelease />
+  <changelog>
+    <release>
+      <version>
+        <release>X.Y.Z</release>
+        <api>X.Y</api>
+      </version>
+      <stability>
+        <release>stable</release>
+        <api>stable</api>
+      </stability>
+      <date>Your release date</date>
+      <license>All rights reserved</license>
+      <notes>
+      </notes>
+    </release>
+  </changelog>
+</package>
+<!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->

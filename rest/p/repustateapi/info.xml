@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns="http://pear.php.net/dtd/rest.package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd">
+<n>repustateApi</n>
+<c>pear.gradwell.com</c>
+<ca xlink:href="/rest/c/Default">Default</ca>
+<l>New BSD license.</l>
+<s>Simple PHP client for repustate's API</s>
+<d>
+    This is a simple PHP client for repustate.com's API for semantic analysis. Originally built for the 'Beyond Frameworks' tutorial blog posts.
+  </d>
+<r xlink:href="/rest/r/repustateapi" />
+</p>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.1" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0
+    http://pear.php.net/dtd/tasks-1.0.xsd
+    http://pear.php.net/dtd/package-2.0
+    http://pear.php.net/dtd/package-2.0.xsd">
+  <name>ComponentManagerPhpLibrary</name>
+  <channel>pear.gradwell.com</channel>
+  <summary>Supports creating and managing a php-library component</summary>
+  <description>
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  </description>
+  <lead>
+    <name>Stuart Herbert</name>
+    <user>stuartherbert</user>
+    <email>stuart@stuartherbert.com</email>
+    <active>yes</active>
+  </lead>
+  <date>2011-03-23</date>
+  <time>21:25:41</time>
+  <version>
+  <release>1.0.3</release>
+    <api>1.0</api>
+  </version>
+  <stability>
+    <release>stable</release>
+    <api>stable</api>
+  </stability>
+  <license>New BSD license</license>
+  <notes>
+    No notes.
+  </notes>
+  <contents>
+    <dir baseinstalldir="/" name="/">
+      <file baseinstalldir="/" md5sum="56cda19af9aede5a4a12ebba0b68aed4" name="/php-library/build.xml" role="data"/>
+      <file baseinstalldir="/" md5sum="6f03dccdc9fbe355030d44bc37e31945" name="/php-library/.gitignore" role="data"/>
+      <file baseinstalldir="/" md5sum="82c8eec51e81a64dde21c3a8912c5939" name="/php-library/package.xml" role="data"/>
+      <file baseinstalldir="/" md5sum="d41d8cd98f00b204e9800998ecf8427e" name="/php-library/README.md" role="data"/>
+      <file baseinstalldir="/" md5sum="4a8e793dbb9d8fceebf0e14d6c7529ac" name="/php-library/build.properties" role="data"/>
+      <file baseinstalldir="/" md5sum="aac094b08d3b8c7e169b735d02e4a697" name="/php-library/bootstrap.php" role="data"/>
+      <file baseinstalldir="/" md5sum="d41d8cd98f00b204e9800998ecf8427e" name="/php-library/LICENSE.txt" role="data"/>
+      <file baseinstalldir="/" md5sum="584e14bf48398b16b842e75668d84ee8" name="/php-library/.hgignore" role="data"/>
+      <file baseinstalldir="/" md5sum="ea19daa6ef4f91d69a276b5345437f7f" name="/Gradwell/ComponentManager/Entities/LibraryComponentFolder.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="4979d595fdc29e336809ffab61fe90a4" name="/Gradwell/ComponentManager/PhixCommands/PhpLibraryVersion.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="77cb53f6bccab4e78f6d1410eb8c3be1" name="/Gradwell/ComponentManager/PhixCommands/PhpLibraryUpgrade.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="8f437379a61621f3234564d3b8e1dee4" name="/Gradwell/ComponentManager/PhixCommands/PhpLibraryStatus.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="781b23b8697a9bf2bac17fd07e7a001e" name="/Gradwell/ComponentManager/PhixCommands/PhpLibraryInit.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+
+    </dir>
+  </contents>
+  <dependencies>
+    <required>
+      <php>
+        <min>5.3.0</min>
+      </php>
+      <pearinstaller>
+        <min>1.6.0</min>
+      </pearinstaller>
+      <package>
+        <name>Autoloader</name>
+        <channel>pear.gradwell.com</channel>
+        <min>2.0.0</min>
+	      <max>2.999.9999</max>
+      </package>
+      <package>
+        <name>ComponentManagerShared</name>
+        <channel>pear.gradwell.com</channel>
+        <min>1.0.0</min>
+        <max>1.999.9999</max>
+      </package>
+      <package>
+        <name>phix</name>
+        <channel>pear.gradwell.com</channel>
+        <min>0.11.1</min>
+        <max>1.999.9999</max>
+      </package>
+    </required>
+  </dependencies>
+  <phprelease />
+  <changelog>
+    <release>
+      <version>
+        <release>1.0.0</release>
+        <api>1.0</api>
+      </version>
+      <stability>
+        <release>stable</release>
+        <api>stable</api>
+      </stability>
+      <date>2011-03-21</date>
+      <license>New BSD license</license>
+      <notes>
+      </notes>
+    </release>
+  </changelog>
+</package>
+<!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
