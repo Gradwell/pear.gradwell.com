@@ -3,6 +3,10 @@
     <p>ComponentManagerShared</p>
     <c>pear.gradwell.com</c>
     <r>
+        <v>1.0.1</v>
+        <s>stable</s>
+    </r>
+    <r>
         <v>1.0.0</v>
         <s>stable</s>
     </r>
