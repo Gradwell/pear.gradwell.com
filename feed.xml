@@ -137,6 +137,19 @@
   
         </content>
     </entry>    <entry>
+        <title>ComponentManagerPhpLibrary 1.1.1 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ComponentManagerPhpLibrary-1.1.1.tgz" />
+        <id>ComponentManagerPhpLibrary-1.1.1</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-04-04T19:59:19+01:00</updated>
+        <content>
+            
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  
+        </content>
+    </entry>    <entry>
         <title>ComponentManagerPhpLibrary 1.1.0 (stable)</title>
         <link href="http://pear.gradwell.com/get/ComponentManagerPhpLibrary-1.1.0.tgz" />
         <id>ComponentManagerPhpLibrary-1.1.0</id>
