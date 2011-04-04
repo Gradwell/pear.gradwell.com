@@ -137,6 +137,19 @@
   
         </content>
     </entry>    <entry>
+        <title>ComponentManagerPhpLibrary 1.1.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ComponentManagerPhpLibrary-1.1.0.tgz" />
+        <id>ComponentManagerPhpLibrary-1.1.0</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-04-04T19:30:14+01:00</updated>
+        <content>
+            
+    ComponentManagerPhpLibrary contains the code and skeleton files required to create and manage a php-library component.
+  
+        </content>
+    </entry>    <entry>
         <title>ComponentManagerPhpLibrary 1.0.3 (stable)</title>
         <link href="http://pear.gradwell.com/get/ComponentManagerPhpLibrary-1.0.3.tgz" />
         <id>ComponentManagerPhpLibrary-1.0.3</id>
@@ -212,6 +225,19 @@
         <content>
             
     ComponentManagerPhpWebapp contains the code and skeleton files required to create and manage a php-webapp component.
+  
+        </content>
+    </entry>    <entry>
+        <title>ComponentManagerShared 1.0.2 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ComponentManagerShared-1.0.2.tgz" />
+        <id>ComponentManagerShared-1.0.2</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-04-04T19:27:22+01:00</updated>
+        <content>
+            
+    ComponentManager-Shared holds the shared code used in the management of different kinds of components.
   
         </content>
     </entry>    <entry>
