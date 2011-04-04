@@ -59,6 +59,19 @@
   
         </content>
     </entry>    <entry>
+        <title>ComponentManager 1.1.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ComponentManager-1.1.0.tgz" />
+        <id>ComponentManager-1.1.0</id>
+        <author>
+            <name>stuartherbet</name>
+        </author>
+        <updated>2011-04-04T20:37:25+01:00</updated>
+        <content>
+            
+    ComponentManager allows you to create and maintain a variety of components, such as PHP libraries and Docbooks.
+  
+        </content>
+    </entry>    <entry>
         <title>ComponentManager 1.0.3 (stable)</title>
         <link href="http://pear.gradwell.com/get/ComponentManager-1.0.3.tgz" />
         <id>ComponentManager-1.0.3</id>
