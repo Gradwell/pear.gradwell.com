@@ -319,6 +319,19 @@
   
         </content>
     </entry>    <entry>
+        <title>ConsoleDisplayLib 2.0.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ConsoleDisplayLib-2.0.0.tgz" />
+        <id>ConsoleDisplayLib-2.0.0</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-04-18T22:14:28+01:00</updated>
+        <content>
+            
+    Description goes here
+  
+        </content>
+    </entry>    <entry>
         <title>ConsoleDisplayLib 1.0.0 (stable)</title>
         <link href="http://pear.gradwell.com/get/ConsoleDisplayLib-1.0.0.tgz" />
         <id>ConsoleDisplayLib-1.0.0</id>
