@@ -3,6 +3,11 @@
     <p>ConsoleDisplayLib</p>
     <c>pear.gradwell.com</c>
     <r>
+        <v>2.0.2</v>
+        <s>stable</s>
+        <m>5.2.0</m>
+    </r>
+    <r>
         <v>2.0.1</v>
         <s>stable</s>
         <m>5.2.0</m>
