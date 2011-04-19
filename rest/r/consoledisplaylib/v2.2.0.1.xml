@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/consoledisplaylib">ConsoleDisplayLib</p>
+    <c>pear.gradwell.com</c>
+    <v>2.0.1</v>
+    <a>2.0</a>
+    <mp>5.2.0</mp>
+    <st>stable</st>
+    <l>New BSD license</l>
+    <m>stuartherbert</m>
+    <s>A simple library for CLI apps to output to the console</s>
+    <d>
+    Description goes here
+  </d>
+    <da>2011-04-19 11:13:17</da>
+    <n>
+    No notes.
+  </n>
+    <f>7665</f>
+    <g>http://pear.gradwell.com/get/ConsoleDisplayLib-2.0.1</g>
+    <x xlink:href="package.2.0.1.xml"/>
+</r>
