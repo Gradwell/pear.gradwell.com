@@ -46,6 +46,19 @@
   
         </content>
     </entry>    <entry>
+        <title>CommandLineLib 1.1.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/CommandLineLib-1.1.0.tgz" />
+        <id>CommandLineLib-1.1.0</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-04-19T20:17:31+01:00</updated>
+        <content>
+            
+    CommandLineLib is a simple-to-use PHP component that provides a high-quality command line parser via a fluid interface.
+  
+        </content>
+    </entry>    <entry>
         <title>CommandLineLib 1.0.0 (stable)</title>
         <link href="http://pear.gradwell.com/get/CommandLineLib-1.0.0.tgz" />
         <id>CommandLineLib-1.0.0</id>
@@ -316,6 +329,19 @@
         <content>
             
     ComponentManager-Shared holds the shared code used in the management of different kinds of components.
+  
+        </content>
+    </entry>    <entry>
+        <title>ConsoleDisplayLib 2.1.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/ConsoleDisplayLib-2.1.0.tgz" />
+        <id>ConsoleDisplayLib-2.1.0</id>
+        <author>
+            <name>stuartherbert</name>
+        </author>
+        <updated>2011-04-20T09:47:13+01:00</updated>
+        <content>
+            
+    Description goes here
   
         </content>
     </entry>    <entry>
