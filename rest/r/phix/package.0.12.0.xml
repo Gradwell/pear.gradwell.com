@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.1" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0
+    http://pear.php.net/dtd/tasks-1.0.xsd
+    http://pear.php.net/dtd/package-2.0
+    http://pear.php.net/dtd/package-2.0.xsd">
+  <name>phix</name>
+  <channel>pear.gradwell.com</channel>
+  <summary>Framework-agnostic command-line util for PHP development</summary>
+  <description>
+    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
+  </description>
+  <lead>
+    <name>Stuart Herbert</name>
+    <user>stuherbert</user>
+    <email>stuart.herbert@gradwell.com</email>
+    <active>yes</active>
+  </lead>
+  <date>2011-04-20</date>
+  <time>19:28:00</time>
+  <version>
+  <release>0.12.0</release>
+    <api>0.12</api>
+  </version>
+  <stability>
+    <release>stable</release>
+    <api>stable</api>
+  </stability>
+  <license>All rights reserved.</license>
+  <notes>
+    No notes.
+  </notes>
+  <contents>
+    <dir baseinstalldir="/" name="/">
+      <file baseinstalldir="/" md5sum="1e520700946b26ca29e56f023120fcd6" name="/phix" role="script">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="/usr/bin/env php" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@PHP_BIN@@" to="php_bin" type="pear-config" />
+        <tasks:replace from="@@BIN_DIR@@" to="bin_dir" type="pear-config" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="a2fd91e8e8a9de2c3bdbfb6b87bc3150" name="/Phix_Project/PhixExtensions/CommandInterface.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="d36e3860baa34b0fb16fa5159db03b88" name="/Phix_Project/PhixExtensions/CommandBase.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="54f5de1149be9340f13fddb163dd9212" name="/Phix_Project/Phix/Phix.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="be4480a242fa07954296fd1fe2a5c702" name="/Phix_Project/Phix/CommandsList.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="d94d6ed4dc626e00d6d32b8c6906ee9d" name="/Phix_Project/Phix/Context.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="e1a75c23ff8786f6b6b05b21c379f258" name="/Phix_Project/Phix/ClassFinder.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="fd688f73394bf1bc72920f5ee56d36b4" name="/Phix_Project/Phix/CommandsFinder.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="e5bff1f74773339158dac7b44b652b55" name="/Phix_Project/PhixSwitches/PhixSwitches.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="d9fd2b2d12c765a7e057798ca2c53fdf" name="/Phix_Project/PhixSwitches/VersionSwitch.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="f85f60cc3e339910b09c457ed69eb360" name="/Phix_Project/PhixSwitches/ShortHelpSwitch.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="01598535dd4b22ff343a6b99d219af42" name="/Phix_Project/PhixSwitches/SwitchBase.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="1c6e3461377b686f0f1eddda15ead22d" name="/Phix_Project/PhixSwitches/LongHelpSwitch.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="eaaba68f0546683263dea4ce9d908946" name="/Phix_Project/PhixSwitches/IncludeSwitch.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="1579f722d50d7e2c06435d6f959db6e2" name="/Phix_Project/PhixSwitches/DebugSwitch.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="43f07bc646cdeff2481c67b0605a7857" name="/Phix_Project/PhixCommands/HelpCommand.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="c60cc2eb94a3df3ef43619b068b05137" name="/Phix_Project/PhixHelpers/SwitchesHelper.php" role="php">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="7c4c7048f41031098eab9891534409cb" name="/Phix_Project/PhixExtensions/CommandBaseTest.php" role="test">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="fae2801e88335bb6e8b378b636feb904" name="/Phix_Project/Phix/CommandsListTest.php" role="test">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="2f909af06e60be3d6581d06c4761af9c" name="/Phix_Project/Phix/ContextTest.php" role="test">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="d92dae6d5da4e9c3e1840c2368f73f2c" name="/Phix_Project/Phix/ClassFinderTest.php" role="test">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="d4dc5fc75a0247035c076a24cef32065" name="/Phix_Project/Phix/CommandsFinderTest.php" role="test">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="8b3d443ea8c58e50855142ca84fdc565" name="/Phix_Project/PhixSwitches/PhixSwitchesTest.php" role="test">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="6ed465a2506364f3e36f875651464c56" name="/Phix_Project/PhixSwitches/DebugSwitchTest.php" role="test">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="5fb2308467ada3bc0721dd9d873a8d36" name="/Phix_Project/PhixSwitches/IncludeSwitchTest.php" role="test">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="8ab6ade946f58b3020a5a38991e0cebb" name="/Phix_Project/PhixSwitches/SwitchBaseTest.php" role="test">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="05f8f4070f3178db10f7df33591850be" name="/Phix_Project/PhixSwitches/ShortHelpSwitchTest.php" role="test">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="92f2744250ca912207077543953c3f4e" name="/Phix_Project/PhixSwitches/LongHelpSwitchTest.php" role="test">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="08ef27e98cd3ba009a3397df9d8a97a9" name="/Phix_Project/PhixSwitches/VersionSwitchTest.php" role="test">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="82563d8dfb215e443aa4dafe99c13bb6" name="/Phix_Project/PhixCommands/HelpCommandTest.php" role="test">
+        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+
+    </dir>
+  </contents>
+  <dependencies>
+    <required>
+      <php>
+        <min>5.3.0</min>
+      </php>
+      <pearinstaller>
+        <min>1.6.0</min>
+      </pearinstaller>
+      <package>
+        <name>Autoloader</name>
+        <channel>pear.gradwell.com</channel>
+        <min>2.0.0</min>
+	      <max>2.999.9999</max>
+      </package>
+      <package>
+        <name>CommandLineLib</name>
+        <channel>pear.gradwell.com</channel>
+        <min>1.0.0</min>
+        <max>1.999.9999</max>
+      </package>
+      <package>
+        <name>ConsoleDisplayLib</name>
+        <channel>pear.gradwell.com</channel>
+        <min>2.0.0</min>
+        <max>2.999.9999</max>
+      </package>
+      <package>
+        <name>ValidationLib</name>
+        <channel>pear.gradwell.com</channel>
+        <min>1.0.0</min>
+        <max>1.999.9999</max>
+      </package>
+      <extension>
+        <name>posix</name>
+      </extension>
+    </required>
+  </dependencies>
+  <phprelease />
+  <changelog>
+    <release>
+      <version>
+        <release>0.1.0</release>
+        <api>0.0</api>
+      </version>
+      <stability>
+        <release>stable</release>
+        <api>stable</api>
+      </stability>
+      <date>2010-11-04</date>
+      <license>New-BSD</license>
+      <notes>
+See http://gradwell.github.com for more details.
+      </notes>
+    </release>
+  </changelog>
+</package>
+<!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->
